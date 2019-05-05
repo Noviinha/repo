@@ -1,0 +1,17 @@
+Package: com.novinha.notjellyfish
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: Novinha <jaysonduong@icloud.com>
+Filename: /NotJellyfishv2.0.2.deb
+Size: 310724
+MD5sum: C7E8C3324384B68BF0088B968A0C3FAF
+SHA1: 6D87A4271F06FEDD4BC1F16BFC9D754C75546AFB
+SHA256: 808FC829C1AA98DBADACF9D28448079EC8135F3C34AB818951B9F28EA7437AAA
+Section: XenHTML
+Description: Inspired by the Jellyfish face, NotJellyfish aims to make your Lock screen more modern, more beatiful and more useful for free.
+NotJellyfish refreshes the Lock screen with a beautiful time, emphasizing the time, date and battery. You can set the colors to anything, creating a beautiful blended effect, while still retaining its legibility.
+Jellyfish also adds weather to your Lock screen, so you can always view it at a quick glance. While adding this new level of information, your Lock screen retains its simplicity, avoiding a cluttered look.
+
+Credits to Evelyn (@ev_ynw) for the HTML base template.
+Author: Novinha (jaysonduong@icloud.com)
+Name: NotJellyfish
